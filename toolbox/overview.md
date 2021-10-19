@@ -46,3 +46,6 @@ figure; imagesc(real(X));
 ![image description for accessibility](img/fft_matrix.svg)
 
 
+[1]:https://en.wikipedia.org/wiki/Markdown
+[2]:https://github.com/danjacobellis/signal-toolbox
+[3]:https://en.wikipedia.org/wiki/Sphinx_(documentation_generator)
